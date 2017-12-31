@@ -1,25 +1,34 @@
 
 h1 {
-    color:#cebbce;
+    color:#364460;
     font-family: 'Arvo', serif;
 }
 
 h2 {
 font-family: 'Arvo', serif;
-color:#1f2133;
+color:#364460;
 }
 
 
 h4 {
-    color:#1f2133;
+    color:#364460;
     font-family: 'Arvo', serif;
+    
+
 }
 
 h5 {
-    color:#cebbce;
+    color:#364460;
     font-family: 'Arvo', serif;
-    font-size: 18px;
+    font-size: 24px;
+    font-style: italic;
 }
+
+h6 {
+    color:#364460;
+    font-family: 'Arvo', serif;
+    font-size: 14px;
+   }
 
 a {
     color: #aa18ad;
@@ -28,7 +37,7 @@ a {
 
 
 a:hover{
-    color: #403e49;
+    color: #CECCCC;
 }
 
 a h1{
@@ -41,7 +50,7 @@ a h1{
 }
 
 .intro {
-    background: #1f2133;
+    background: #ffffff;
     padding: 35px;
       margin-bottom: -99999px;
     padding-bottom: 99999px;
@@ -118,12 +127,12 @@ p .lead {
     border-color: #ffffff;
     font-family: 'Arvo', serif;
     font-size: 18px;
-    color:#1f2133;
+    color:#364460;
 }
 
 
 .navbar-default .navbar-nav>li>a{
-  color:#1f2133;
+  color:#364460;
 }
 .navbar-default .navbar-nav>li>a:hover{
   color:#aa18ad;
@@ -141,7 +150,7 @@ p .lead {
 }
     .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #1f2133;
+    color: #364460;
 }
 
 
