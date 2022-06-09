@@ -20,14 +20,14 @@ h4 {
 h5 {
     color:#364460;
     font-family: 'Arvo', serif;
-    font-size: 24px;
+    font-size: 20px;
     font-style: italic;
 }
 
 h6 {
     color:#364460;
-    font-family: 'Arvo', serif;
-    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
    }
 
 a {
@@ -37,7 +37,7 @@ a {
 
 
 a:hover{
-    color: #CECCCC;
+    color: #731675;
 }
 
 a h1{
