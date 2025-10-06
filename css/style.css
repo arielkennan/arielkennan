@@ -6,11 +6,11 @@ h1 {
 
 h2 {
 font-family: 'Arvo', serif;
-color:#364460;
+color:##172A3A;
 }
 
 
-h4 {
+h3 {
     color:#364460;
     font-family: 'Arvo', serif;
     
@@ -21,7 +21,7 @@ h5 {
     color:#364460;
     font-family: 'Arvo', serif;
     font-size: 20px;
-    font-style: italic;
+    
 }
 
 h6 {
@@ -31,13 +31,13 @@ h6 {
    }
 
 a {
-    color: #aa18ad;
+    color: #0F8095;
     text-decoration: none;
 }
 
 
 a:hover{
-    color: #731675;
+    color: #E00092;
 }
 
 a h1{
@@ -57,12 +57,13 @@ a h1{
 }
 
 .portrait{
-    background-color: #b2b2b2;
+    background-color: #c1d3d9;
+    padding: 35px;
     height: 700px;
     background-image: url("ariel.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     
 }
 /* no-gutters Class Rules */
@@ -78,7 +79,7 @@ a h1{
 
 .navbar-brand{
     font-family: 'Arvo', serif;
-    color:#466368;
+    color:#0F8095;
     font-size: 24px;
 }
 
@@ -135,12 +136,12 @@ p .lead {
   color:#364460;
 }
 .navbar-default .navbar-nav>li>a:hover{
-  color:#aa18ad;
+  color:#E00092;
 }
 
 
 .navbar-default .navbar-brand {
-    color: #aa18ad;
+    color: #0F8095;
 }
 
 .navbar-default h1{
@@ -150,7 +151,7 @@ p .lead {
 }
     .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #364460;
+    color: #c1d3d9;
 }
 
 
@@ -162,5 +163,8 @@ p .lead {
 body {
   margin: 0;
   padding-top:55px;
-
+ color:#234361;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
 
