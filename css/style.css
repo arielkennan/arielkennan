@@ -45,6 +45,11 @@ a h1{
     text-decoration: none;
 }
 
+
+ul li {
+  margin-bottom: 12px; /* Adjust the pixel value as needed */
+}
+
 #column-wrap {
     overflow: hidden; 
 }
